@@ -4,7 +4,7 @@
 - 💞️  I’m up for anything that blends Python and creativity, including AI projects or interactive apps.
 - 📫 Reach Me: Drop a message on here, or find me on [LinkedIn](https://www.linkedin.com/in/ziglacity) or [Email](mailto:ziglacity@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m a huge Lionel Messi fan, and I believe there's no one quite like him in our generation.
+- ⚡ Fun fact: I’m a huge Messi fan.
 
 
 <!---
