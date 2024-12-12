@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zigla — but you can call me Zigla City!
+- 👋 Hi, I’m Solomon — but you can call me Zigla City!
 - 👀 I'm deep into tech, with a focus on Python development/ Programming, CyberSecurity, and AI. I’m also a big fan of football(Messi precisely) and hip-hop (Kendrick & Eminem on repeat).
 - 🌱 I’m currently learning JavaScript, React, and continuing to level up my Python skills while exploring the world of AI.
 - 💞️  I’m up for anything that blends Python and creativity, including AI projects or interactive apps.
