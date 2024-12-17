@@ -1,12 +1,12 @@
 # 👋  Hi, I’m Solomon — but you can call me Zigla City! 👑
 
 ### 🚀 About Me
-I'm a passionate Python developer exploring the realms of cybersecurity, artificial intelligence, and web development. I love building creative and challenging projects that push my limits.I’m also a big fan of football(Messi precisely) and hip-hop (Kendrick & Eminem on repeat).
+I'm a passionate Python developer exploring the realms of cybersecurity, artificial intelligence, and web development. I love building creative and challenging projects that push my limits.
 - 👀 I’m also a big fan of football (Messi precisely) and rap music (Kendrick, J.Cole, NF & Eminem on repeat).
 - 🌱 I’m currently learning React, and continuing to level up my Python skills while exploring the world of AI.
 - 📫 Reach Me: Drop a message on here, or find me on [LinkedIn](https://www.linkedin.com/in/ziglacity) or [Email](mailto:ziglacity@gmail.com)
 - ⚡ Fun fact: A photocopier isn't an Artist even if it can recreate the Mona Lisa🎯
-- 
+  
 ### 💻 Languages Used
 - **Proficient:** Python, JavaScript, SQL, HTML/CSS
 - **Familiar:** Java (OOP), C++,
