@@ -20,24 +20,11 @@ I'm a passionate Python developer exploring the realms of cybersecurity, artific
   ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)   
 
 ### 🛠️ Tools & Technologies
-- **Frameworks & Libraries:**  
-  ![Tkinter](https://img.shields.io/badge/-Tkinter-2C5BB4?logo=python&logoColor=white&style=flat)  
-  ![PyQt](https://img.shields.io/badge/-PyQt5-41CD52?logo=qt&logoColor=white&style=flat)  
+- **Frameworks & Libraries:** ![Tkinter](https://img.shields.io/badge/-Tkinter-2C5BB4?logo=python&logoColor=white&style=flat) ![PyQt](https://img.shields.io/badge/-PyQt5-41CD52?logo=qt&logoColor=white&style=flat) 
+- **Databases:** ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
+- **Version Control:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
+- **Others:** ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat) ![Code Blocks](https://img.shields.io/badge/-Code%20Blocks-4F4F4F?style=flat) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=flat)
 
-- **Databases:**  
-  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
-
-- **Version Control:**  
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
-
-- **Others:**  
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)  
-  ![Code Blocks](https://img.shields.io/badge/-Code%20Blocks-4F4F4F?style=flat)  
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=flat)
-
----
 
 ### 🏆 GitHub Stats
 
