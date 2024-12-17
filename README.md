@@ -4,12 +4,20 @@
 I'm a passionate Python developer exploring the realms of cybersecurity, artificial intelligence, and web development. I love building creative and challenging projects that push my limits.
 - 👀 I’m also a big fan of football (Messi precisely) and rap music (Kendrick, J.Cole, NF & Eminem on repeat).
 - 🌱 I’m currently learning React, and continuing to level up my Python skills while exploring the world of AI.
-- 📫 Reach Me: Drop a message on here, or find me on [LinkedIn](https://www.linkedin.com/in/ziglacity) or [Email](mailto:ziglacity@gmail.com)
-- ⚡ Fun fact: A photocopier isn't an Artist even if it can recreate the Mona Lisa🎯
+- 📫 Reach Me: Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ziglacity) or [Email](mailto:ziglacity@gmail.com)
+- ⚡ Fun fact: A photocopier isn't an artist—even if it can recreate the Mona Lisa.🎯 That’s why I value innovation over imitation!
   
 ### 💻 Languages Used
-- **Proficient:** Python, JavaScript, SQL, HTML/CSS
-- **Familiar:** Java (OOP), C++,
+- **Proficient in:**
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) 
+  ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=flat) 
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) 
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
+
+- **Familiar with:**
+  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) 
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)   
 
 ### 🛠️ Tools & Technologies
 - **Frameworks & Libraries:** Tkinter, PyQt
