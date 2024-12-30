@@ -34,9 +34,7 @@ I'm a passionate Python developer exploring the realms of cybersecurity, artific
 
 
 ### 🎓 Currently Working On:
-- A **School Management System** using Python & SQLite with a PyQt5 UI
-- **ZTube- A youtube downloader** using Python, tkinter, and youtube API v3.
-- **Z-Screen - A screen recorder and shot app** using Python, tkinter
+- Something interesting😊
 
 
 
