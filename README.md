@@ -54,7 +54,7 @@ I architect code that **defends**, **adapts**, and **evolves**. By day, I’m fo
 ---
 
 **`>>`** **Final Transmission**: *"In a world of copy-paste coders, be a cipher."*  
-`🔓 [Fbyzbba]` *<<< ROT13-decrypt this signature*
+`🔓 [Fbybzba]` *<<< ROT13-decrypt this signature*
 
 ---
 
