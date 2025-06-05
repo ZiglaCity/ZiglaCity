@@ -1,7 +1,13 @@
 # 🛡️ Z i g l a  C i t y  |  Cyber Sentinel & Code Alchemist 🔐
-
-**Guardian of the Code | Python Virtuoso | AI & Cyber Frontiers Explorer**  
 *"Innovation over imitation — rewriting the rules of the digital battleground."*
+---
+
+### 🧠 **Neural Network** *(About Me)*
+I architect code that **defends**, **adapts**, and **evolves**. By day, I’m fortifying systems with Python and AI. By night, I dissect football tactics (Messi’s footwork = pure algo) and decrypt rap lyricism (Kendrick’s flow ≈ encrypted poetry).  
+
+- 🧬 **Current Training Modules**: *Advanced Cybersecurity Protocols | AI/ML Countermeasures | Some Web Dev Stuff*  
+- ⚡ **Fun Fact**: I’d out-hack a photocopier trying to replicate the Mona Lisa. Innovation > Imitation. Always.  
+- 📡 **Comm Link**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ziglacity) [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail)](mailto:ziglacity@gmail.com)
 
 ---
 
@@ -26,22 +32,6 @@
 **`>>`** **Secondary Protocols** *(In Training)*  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) 
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)  
-
----
-
-### 🧠 **Neural Network** *(About Me)*
-I architect code that **defends**, **adapts**, and **evolves**. By day, I’m fortifying systems with Python and AI. By night, I dissect football tactics (Messi’s footwork = pure algo) and decrypt rap lyricism (Kendrick’s flow ≈ encrypted poetry).  
-
-- 🧬 **Current Training Modules**: *Advanced Cybersecurity Protocols | AI/ML Countermeasures | Web3 Recon*  
-- ⚡ **Fun Fact**: I’d out-hack a photocopier trying to replicate the Mona Lisa. Innovation > Imitation. Always.  
-- 📡 **Comm Link**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ziglacity) [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail)](mailto:ziglacity@gmail.com)
-
----
-
-### 💻 **Cyber Toolkit**
-| **Weapons**                    | **Data Vaults**              | **Cyber Infrastructure**               | **Dev War Rooms**                     |
-|---------------------------------|------------------------------|-----------------------------------------|----------------------------------------|
-| ![Tkinter](https://img.shields.io/badge/-Tkinter-2C5BB4?logo=python) ![PyQt](https://img.shields.io/badge/-PyQt5-41CD52?logo=qt) | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql) | ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?logo=intellijidea) ![CodeBlocks](https://img.shields.io/badge/-Code%20Blocks-273058?logo=codeblocks) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) |
 
 ---
 
