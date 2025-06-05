@@ -1,5 +1,5 @@
 # 🛡️ Z i g l a  C i t y  |  Cyber Sentinel & Code Alchemist 🔐
-*"Innovation over imitation — rewriting the rules of the digital battleground."*
+#### *Innovation over imitation — rewriting the rules of the digital battleground.*
 ---
 
 ### 🧠 **Neural Network** *(About Me)*
