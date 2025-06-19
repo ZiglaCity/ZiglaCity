@@ -1,4 +1,4 @@
-# 🛡️ Z i g l a  C i t y | Cybersecurity Engineer & Software Developer 🔐  
+## 🛡️ Z i g l a  C i t y | Cybersecurity Engineer | Software Developer  
 #### *Innovation over imitation — redefining digital security and code craftsmanship.*  
 
 ---
