@@ -41,9 +41,9 @@ I build resilient systems that **defend**, **adapt**, and **evolve**. By day, I 
 
 ---
 
-**`>>`** **Final Thought**: *"In a world of copy-paste coders, be an innovator."*  
+**`>>`** **Final Thought**: *"In a world of copy-paste coders, be an cipher."*  
 `🔓 [Fbybzba]` *<<< ROT13-decrypt this signature*  
 
 ---
 
-<sub>⚠️ **Note**: This profile is secured by Zigla's anti-bot protocols. Original thinkers only.</sub>  
+<sub>⚠️ **Note**: This profile is secured by Zigla's anti-bot protocols. Innovation only.</sub>  
