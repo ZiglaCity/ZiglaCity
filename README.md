@@ -30,12 +30,9 @@ Kendrick’s lyrics debug my brain better than any stack trace.
 
 ---
 
-### **Final Thought**
-
-```
-In a world of copy-paste coders, be a cipher.
-```
+**>>** **Final Thought**: _"In a world of copy-paste coders, be a cipher."_ <br>
+🔓 [Fbybzba] _<<< ROT13-decrypt this signature_
 
 ---
 
-<sub>⚠️ Profile protected by Zigla City's anti-bot protocols. Innovation only.</sub>
+<sub>⚠️ **Note**: This profile is secured by Zigla's anti-bot protocols. Innovation only.</sub>
