@@ -1,48 +1,41 @@
-## 🛡️ Z i g l a  C i t y | Cybersecurity Engineer | Software Developer  
-#### *Innovation over imitation — redefining digital security and code craftsmanship.*  
+## 🛡️ Z i g l a C i t y | Software Engineer | Cybersecurity Enjoyer
 
----
-### **About Me**  
-I build resilient systems that **defend**, **adapt**, and **evolve**. By day, I develop secure solutions with Python and AI. By night, I analyze football tactics (Messi's precision is algorithmically perfect) and dissect lyricism (Kendrick's wordplay is cryptographic artistry).  
-
--  **Current Focus**: *Cybersecurity | AI/ML Defense | Full-Stack Development*  
--  **Fun Fact**: I'd out-engineer a photocopier trying to replicate the Mona Lisa. Originality always wins.  
--  **Connect**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ziglacity) [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail)](mailto:ziglacity@gmail.com)  
----
-
-### **Technical Stack**  
-
-**`>>`** **Core Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge) ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=database&logoColor=white&style=for-the-badge)  
-
-**`>>`** **Backend & Databases**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat) 
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat)  
-
-**`>>`** **Frontend Development**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
-
-**`>>`** **Learning & Expanding**  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)  
+#### _Innovation over imitation — one encrypted byte at a time._
 
 ---
 
-### **GitHub Metrics**  
+### **About Me**
+
+I write code, break it immediately, fix it eventually, then pretend it was intentional.<br>
+I believe in clean systems, encrypted conversations, and Messi’s left foot (the real GOAT algorithm).<br>
+Kendrick’s lyrics debug my brain better than any stack trace.
+
+**Currently cooking:** **Enzypher** — an encrypted chat system that doesn’t trust anyone. Not even me.
+
+---
+
+### **GitHub Metrics**
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZiglaCity&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiglaCity&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=2F81F7)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiglaCity&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=2F81F7)
 
 ---
 
-### 🔒 **Current Projects**  
-- **Project X-9**: Next-gen cybersecurity framework (WIP)  
-- **AI Sentinel v0.7**: Automated threat detection engine  
-- *More details coming soon...*  
+### **Fun Facts**
+
+- I don’t follow tutorials; I negotiate with them.
+- My code works better at 2 AM for no scientific reason.
+- Sometimes I write code so clean even I get suspicious.
+- Every bug I fix unlocks **+5 wisdom** and **+3 paranoia**.
 
 ---
 
-**`>>`** **Final Thought**: *"In a world of copy-paste coders, be a cipher."*  
-`🔓 [Fbybzba]` *<<< ROT13-decrypt this signature*  
+### **Final Thought**
+
+```
+In a world of copy-paste coders, be a cipher.
+```
 
 ---
 
-<sub>⚠️ **Note**: This profile is secured by Zigla's anti-bot protocols. Innovation only.</sub>  
+<sub>⚠️ Profile protected by Zigla City's anti-bot protocols. Innovation only.</sub>
