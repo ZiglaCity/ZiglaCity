@@ -10,7 +10,11 @@ I write code, break it immediately, fix it eventually, then pretend it was inten
 I believe in clean systems, encrypted conversations, and Messi’s left foot (the real GOAT algorithm).<br>
 Kendrick’s lyrics debug my brain better than any stack trace.
 
-**Currently cooking:** **Enzypher** — an encrypted chat system that doesn’t trust anyone. Not even me.
+**Currently live:** **Enzypher** — an encrypted chat system that doesn’t trust anyone. Not even me.  
+![Enzypher Screenshot](<img width="1899" height="844" alt="image" src="https://github.com/user-attachments/assets/a4c9a849-cfb6-422e-8d2b-8e4e933d96aa" />
+)  
+🔗 [Check it out live](https://enzypher.vercel.app/) |  [Read my blog about it](https://www.ziglacity.tech/blogs/enzypher-the-unbreakable-idea)
+
 
 ---
 
