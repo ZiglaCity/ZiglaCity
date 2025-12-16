@@ -28,7 +28,6 @@ Kendrick’s lyrics debug my brain better than any stack trace.
 - I don’t follow tutorials; I negotiate with them.
 - My code works better at 2 AM for no scientific reason.
 - Sometimes I write code so clean even I get suspicious.
-- Every bug I fix unlocks **+5 wisdom** and **+3 paranoia**.
 
 ---
 
