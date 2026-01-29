@@ -7,7 +7,7 @@
 ### **About Me**
 
 I write code, break it immediately, fix it eventually, then pretend it was intentional.<br>
-I believe in clean systems, encrypted conversations, and Messi’s left foot (the real GOAT algorithm).<br>
+I believe in God, clean systems, encrypted conversations, and Messi’s left foot (the real GOAT algorithm).<br>
 Kendrick’s lyrics debug my brain better than any stack trace.
 
 **Currently live:** **Enzypher** — an encrypted chat system that doesn’t trust anyone. Not even me.  
