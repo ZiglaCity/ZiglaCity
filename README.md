@@ -1,4 +1,4 @@
-## 🛡️ Z i g l a C i t y | Software Engineer | Cybersecurity Enjoyer
+## 🛡️ Zigla City | Software Engineer | Security-Focused
 
 #### _Innovation over imitation — one encrypted byte at a time._
 
@@ -6,13 +6,23 @@
 
 ### **About Me**
 
-I write code, break it immediately, fix it eventually, then pretend it was intentional.<br>
-I believe in God, clean systems, encrypted conversations, and Messi’s left foot (the real GOAT algorithm).<br>
+I write code, break it immediately, fix it eventually, then pretend it was intentional.  
+I design and build scalable systems with a focus on performance, security, and real-world impact.  
+I believe in God, clean systems, encrypted conversations, and Messi’s left foot (the real GOAT algorithm).  
 Kendrick’s lyrics debug my brain better than any stack trace.
 
-**Currently live:** **Enzypher** — an encrypted chat system that doesn’t trust anyone. Not even me.  
-🔗 [Check it out live](https://enzypher.vercel.app/) |  [Read my blog about it](https://www.ziglacity.tech/blogs/enzypher-the-unbreakable-idea)
-<img width="1899" height="844" alt="image" src="https://github.com/user-attachments/assets/7e61f8f6-7f0c-44cc-be67-fe961d0a6d09" />
+---
+
+### **Currently Live(WIP): Enzypher**
+
+An end-to-end encrypted chat system built on zero-trust principles — where even the server is treated as hostile.
+
+🔗 [Check it out live](https://enzypher.vercel.app/)  
+📝 [Read the breakdown](https://www.ziglacity.tech/blogs/enzypher-the-unbreakable-idea)
+
+> Live preview of Enzypher interface
+
+<img width="1899" height="844" alt="Enzypher Preview" src="https://github.com/user-attachments/assets/7e61f8f6-7f0c-44cc-be67-fe961d0a6d09" />
 
 ---
 
@@ -25,15 +35,14 @@ Kendrick’s lyrics debug my brain better than any stack trace.
 
 ### **Fun Facts**
 
-- I don’t follow tutorials; I negotiate with them.
-- My code works better at 2 AM for no scientific reason.
-- Sometimes I write code so clean even I get suspicious.
+- I don’t follow tutorials; I negotiate with them.  
+- My code works better at 2 AM for no scientific reason.  
+- Sometimes I write code so clean I start questioning my own bugs.  
 
 ---
 
-**>>** **Final Thought**: _"In a world of copy-paste coders, be a cipher."_ <br>
+**>> Final Thought:** _"In a world of copy-paste coders, be a cipher."_  
 🔓 [Fbybzba] _<<< ROT13-decrypt this signature_
 
 ---
-
-<sub>⚠️ **Note**: This profile is secured by Zigla's anti-bot protocols. Innovation only.</sub>
+<sub>⚠️ This profile is secured by Zigla's anti-bot protocols. Innovation only.</sub>
