@@ -22,7 +22,7 @@ An end-to-end encrypted chat system built on zero-trust principles — where eve
 
 > Live preview of Enzypher interface
 
-<img width="1899" height="844" alt="Enzypher Preview" src="https://github.com/user-attachments/assets/7e61f8f6-7f0c-44cc-be67-fe961d0a6d09" />
+<img width="1918" height="1198" alt="enzypher (2)" src="https://github.com/user-attachments/assets/798eb1dd-0b37-4db9-9f0a-abb6cab05289" />
 
 ---
 
