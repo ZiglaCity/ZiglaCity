@@ -17,12 +17,12 @@ Kendrick’s lyrics debug my brain better than any stack trace.
 
 An end-to-end encrypted chat system built on zero-trust principles — where even the server is treated as hostile.
 
-🔗 [Check it out live](https://enzypher.vercel.app/)  
+🔗 [Check it out live](https://enzypher.app/)  
 📝 [Read the breakdown](https://www.ziglacity.tech/blogs/enzypher-the-unbreakable-idea)
 
 > Live preview of Enzypher interface
 
-<img width="2470" height="1420" alt="Macbook-Air-www enzypher app (1)" src="https://github.com/user-attachments/assets/190f8b9c-18ca-46ba-84e4-f83bc7fb2622" />
+<img width="2470" height="1420" alt="enzypher" src="https://github.com/user-attachments/assets/06a36f17-c6ec-40e1-a3bb-320d71b63e54" />
 
 ---
 
