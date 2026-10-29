@@ -17,12 +17,7 @@ Kendrick’s lyrics debug my brain better than any stack trace.
 
 An end-to-end encrypted chat system built on zero-trust principles — where even the server is treated as hostile.
 
-🔗 [Check it out live](https://enzypher.app/)  
-📝 [Read the breakdown](https://www.ziglacity.tech/blogs/enzypher-the-unbreakable-idea)
-
-> Live preview of Enzypher interface
-
-<img width="2470" height="1420" alt="enzypher" src="https://github.com/user-attachments/assets/06a36f17-c6ec-40e1-a3bb-320d71b63e54" />
+🔗 [Check it out live](https://enzypher.app/)📝 [Read the breakdown](https://www.ziglacity.tech/blogs/enzypher-the-unbreakable-idea)
 
 ---
 
@@ -33,16 +28,5 @@ An end-to-end encrypted chat system built on zero-trust principles — where eve
 
 ---
 
-### **Fun Facts**
-
-- I don’t follow tutorials; I negotiate with them.  
-- My code works better at 2 AM for no scientific reason.  
-- Sometimes I write code so clean I start questioning my own bugs.  
-
----
-
 **>> Final Thought:** _"In a world of copy-paste coders, be a cipher."_  
 🔓 [Fbybzba] _<<< ROT13-decrypt this signature_
-
----
-<sub>⚠️ This profile is secured by Zigla's anti-bot protocols. Innovation only.</sub>
